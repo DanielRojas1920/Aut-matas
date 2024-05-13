@@ -1,0 +1,7 @@
+{
+  "name": "PIAAutomatas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
